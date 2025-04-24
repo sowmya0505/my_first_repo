@@ -1,2 +1,2 @@
-dbusername=sowmya
-dbpassword=1@3$5^7*9!
+username=sowmya
+password=1@3$5^7*9!
